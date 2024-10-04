@@ -1,0 +1,4 @@
+pennylane
+numpy
+jupyter
+ipython
